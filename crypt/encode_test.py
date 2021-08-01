@@ -56,4 +56,4 @@ for i in indices:
             bytes_saved += 1
 
 print(len(message), bytes_saved)
-im.save('t2.png')
+im.save('encoded.png')
