@@ -1,4 +1,4 @@
-# To decode, we simply reverse the change.
+# To decode, we simply extract the given key from the image.
 from PIL import Image
 import pickle
 import zlib
